@@ -87,12 +87,3 @@ We used Hard Parameter sharing in this approach.
 
 We will be using 3 Alexnet pretrained as 3 feature extractors for each of the plane. We then combine these feature extractor layers as an input to a `global` fully connected layer for the final classification.
 
-# Contributors
-<p > 
-  -- Neelabh Madan   
- <a href = https://github.com/neelabh17 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<br>
-
--- Jatin Prakash <a href = https://github.com/bicycleman15 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-
-
